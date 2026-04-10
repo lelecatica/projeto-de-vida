@@ -1,0 +1,20 @@
+
++2
+-2
+Lines changed: 2 additions & 2 deletions
+Original file line number	Diff line number	Diff line change
+@@ -37,7 +37,7 @@ body {
+}
+
+.botao {
+    font-family: "Crakra Petch", sans-serif;
+    font-family: "Chakra Petch", sans-serif;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+@@ -58,4 +58,4 @@ body {
+
+.botoes {
+    display: block;
+}
+}
